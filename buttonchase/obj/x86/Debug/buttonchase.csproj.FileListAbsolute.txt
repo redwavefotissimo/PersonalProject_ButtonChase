@@ -1,0 +1,13 @@
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\buttonchase.Form1.resources
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\buttonchase.Properties.Resources.resources
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\bin\Debug\buttonchase.exe
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\bin\Debug\buttonchase.pdb
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\buttonchase.exe
+D:\vincent's folder\vs 2010 works\buttonchase\buttonchase\obj\x86\Debug\buttonchase.pdb
+D:\vincent's folder\vs 2010 works\Home made games\2_button chase\buttonchase\obj\x86\Debug\buttonchase.exe
+D:\vincent's folder\vs 2010 works\Home made games\2_button chase\buttonchase\obj\x86\Debug\buttonchase.pdb
+D:\vincent's folder\myprojects\applications\games\c#_button chase\buttonchase\obj\x86\Debug\buttonchase.exe
+D:\vincent's folder\myprojects\applications\games\c#_button chase\buttonchase\obj\x86\Debug\buttonchase.pdb
